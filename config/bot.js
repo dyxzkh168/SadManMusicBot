@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'OTM2Mjc5NzQ3NDE0MDc3NTcx.YfK4dw.pyWSdi40Ct84OIX37w_njalQvDU',
+        token: 'OTM2M',
         prefix: '.',
         activity: 'Joy Knea',
     },
